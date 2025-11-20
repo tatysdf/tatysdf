@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je m'appelle TATY Si De Flandres</h1>
 <h3 align="center">Je suis développeur passionné par le développement logiciel, l'automatisation et la contribution open‑source. Ici tu trouveras mes projets, outils et notes techniques.</h3>
 
-- 🔭 Je travaille actuellement sur [mobile-first](https://mobile-first-taty.netlify.app/)
+- 🔭 Je travaille actuellement sur [tableau excel en JS]([https://mobile-first-taty.netlify.app/](https://table-excel-taty.netlify.app/))
 
 - 🌱 J'apprends actuellement **Python, IA**
 
