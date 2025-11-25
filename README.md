@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m'appelle TATY Si De Flandres</h1>
-<h3 align="center">Je suis développeur passionné par le développement logiciel, l'automatisation et la contribution open‑source. Ici tu trouveras mes projets, outils et notes techniques.</h3>
+<h3 align="center">Je suis développeur passionné par le développement web et mobile, l'automatisation et la contribution open‑source. Ici tu trouveras mes projets, outils et notes techniques.</h3>
 
 - 🔭 Je travaille actuellement sur [excel-table](https://table-excel-taty.netlify.app/)
 
