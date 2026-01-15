@@ -1,11 +1,11 @@
 <h1 align="center">Salut 👋, je m'appelle TATY Si De Flandres</h1>
 <h3 align="center">Je suis développeur passionné par le développement web et mobile, l'automatisation et la contribution open‑source. Ici tu trouveras mes projets, outils et notes techniques.</h3>
 
-- 🔭 Je travaille actuellement sur [excel-table](https://table-excel-taty.netlify.app/)
+- 🔭 Je travaille actuellement sur [manga-shop](https://github.com/tatysdf/manga-shop)
 
 - 🌱 J'apprends actuellement **Python, IA**
 
-- 👯 Je cherche à collaborer sur une **Application web**
+- 👯 Je cherche à collaborer sur une **Application web ou mobile**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/tatysdf](https://github.com/tatysdf)
 
@@ -13,9 +13,7 @@
 
 - 📫 Comment me contacter **tatysideflandre@gmail.com**
 
-- 📄 Découvrez mes expériences [...](...)
-
-- ⚡ Fait amusant **Je suis un grand fan d'anime et de jeux vidéo**
+- ⚡ Fait amusant **Je suis un grand fan d'anime et de nouvelles technologies**
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
